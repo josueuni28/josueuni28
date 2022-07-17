@@ -1,6 +1,6 @@
 # Apresentação
-- 👋 Oi, prazer! Me chamo Josué ( @josueuni28 )
-- 👀 Me interesso principalmente por Desenvolvimento Web e IA. 
+- 👋 Oi, prazer! Me chamo Josué!
+- 👀 Sou Dev Web Junior <span style=" background-color: black;color: white;padding: 10px">html css js jquery php nodejs python</span> 
 - 🌱 Estou agora me atualizando sobre as principais ferramentas e frameworks do mercado.
 - 💞️ Alguns projetos meus e projetos de cursos que estou fazendo você encontrará aqui.
 - 📫 Você também pode me achar no **[Linkedin](https://www.linkedin.com/in/josue-leite-de-souza/)**
